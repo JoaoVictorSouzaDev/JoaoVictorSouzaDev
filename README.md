@@ -1,4 +1,4 @@
-<img src="images/banner.png" alt="GitHub Banner" width="100%" />
+<img src="banner_github.png" alt="GitHub Banner" width="100%" />
 
 # 👨🏾‍💻 João Souza
 
@@ -97,6 +97,7 @@ Estou sempre buscando novos desafios para aprender e contribuir em projetos inov
       align="left" 
       alt="GitHub Stats" 
       height="200" 
+      style="padding-top: 10px;"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoVictorSouzaDev&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
