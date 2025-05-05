@@ -1,4 +1,4 @@
-<img src="banner_github.png" alt="GitHub Banner" width="100%" />
+<img src="bannerGitHub.png" alt="GitHub Banner" width="100%" />
 
 # 👨🏾‍💻 João Souza
 
