@@ -1,6 +1,6 @@
 <img src="bannerGitHub.png" alt="GitHub Banner" width="100%" />
 
-# 👨🏾‍💻 João Souza
+<h1 align="center">👨🏾‍💻 João Souza</h1>
 
 **`Desenvolvedor Back-End`**
 
@@ -9,80 +9,80 @@ São Paulo, com formação técnica e atualmente cursando Desenvolvimento de Sis
 o desenvolvimento back-end com Spring Boot e NodeJS, front-end com ReactJS, além de proficiência em Java e Javascript.
 Estou sempre buscando novos desafios para aprender e contribuir em projetos inovadores.
 
+--- 
+<h3 align="center"> 💻 Linguagens e Tecnologias</h3>
+
+<div style="text-align: center;">
+    <img 
+        align="center" 
+        alt="Java"
+        title="Java" 
+        width="30px" 
+        style="padding-right: 10px;" 
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
+    />
+    <img 
+        align="center" 
+        alt="Spring" 
+        title="Spring"
+        width="30px" 
+        style="padding-right: 10px;" 
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" 
+    />
+    <img 
+        align="center" 
+        alt="JavaScript" 
+        title="JavaScript"
+        width="30px" 
+        style="padding-right: 10px;" 
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+    />
+    <img 
+        align="center" 
+        alt="NodeJs"
+        title="NodeJs" 
+        width="30px" 
+        style="padding-right: 10px;" 
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" 
+    />
+    <img 
+        align="center" 
+        alt="React" 
+        title="React"
+        width="30px" 
+        style="padding-right: 10px;" 
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"
+    />
+    <img 
+        align="center" 
+        alt="MySQL"
+        title="MySQL" 
+        width="30px" 
+        style="padding-right: 10px;" 
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
+    />
+    <img 
+        align="center" 
+        alt="Git" 
+        title="Git"
+        width="30px" 
+        style="padding-right: 10px;" 
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+    />
+    <img 
+        align="center" 
+        alt="Python" 
+        title="Python"
+        width="30px" 
+        style="padding-right: 10px;" 
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+    />
+</div>
+
+<br/>
+
 ---
-
-### 💻 Linguagens e Tecnologias
-
-<img 
-    align="left" 
-    alt="Java"
-    title="Java" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Spring" 
-    title="Spring"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="NodeJs"
-    title="NodeJs" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="React" 
-    title="React"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"
-/>
-<img 
-    align="left" 
-    alt="MySQL"
-    title="MySQL" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
-
-
-<br/>
-<br/>
-
-### 📊 Estatísticas
+<h3 align="center">📊 Estatísticas</h3>
 
 <p>
   <img 
