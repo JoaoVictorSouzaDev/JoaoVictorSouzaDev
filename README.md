@@ -12,7 +12,7 @@ Estou sempre buscando novos desafios para aprender e contribuir em projetos inov
 --- 
 <h3 align="center"> 💻 Linguagens e Tecnologias</h3>
 
-<div style="text-align: center;">
+<div align="center";>
     <img 
         align="center" 
         alt="Java"
@@ -84,9 +84,9 @@ Estou sempre buscando novos desafios para aprender e contribuir em projetos inov
 ---
 <h3 align="center">📊 Estatísticas</h3>
 
-<p>
+<p align="center">
   <img 
-    align="left" 
+    align="center" 
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
