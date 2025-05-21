@@ -94,11 +94,3 @@ Estou sempre buscando novos desafios para aprender e contribuir em projetos inov
   />
 </p>
 
-<p align="center">
-    <img
-    align="center"
-    alt="GitHub Stats"
-    height="200"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=U1R4&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"
-    />
-</p>
